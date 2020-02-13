@@ -92,7 +92,7 @@ C:\working\templates\consoleasync> dotnet run
 Hello World with C# 8.0!
 ```
 
-可以使用 `dotnet run` 删除已创建的 obj  和 bin  文件夹。 删除这些文件可确保你的模板仅包含与模板相关的文件，而不包含生成操作产生的任何文件。
+您可以删除使用 `dotnet run` 创建的 obj  和 bin  文件夹。 删除这些文件可确保你的模板仅包含与模板相关的文件，而不包含生成操作产生的任何文件。
 
 现在你已经创建了模板的内容，需要在模板的根文件夹中创建模板配置。
 
